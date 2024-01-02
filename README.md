@@ -38,4 +38,5 @@ Ensure you have the following installed and configured:
 
 - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/)
 - [Amazon S3 Documentation](https://docs.aws.amazon.com/s3/)
+- [AWS Glue Documentation](https://docs.aws.amazon.com/glue/)
 - [Spotify API Documentation](https://developer.spotify.com/documentation/web-api/)
