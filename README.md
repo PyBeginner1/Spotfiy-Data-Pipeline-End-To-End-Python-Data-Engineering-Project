@@ -9,6 +9,9 @@ This project demonstrates a complete data pipeline for extracting, transforming,
 - **`lambda_function.py`**: Contains the AWS Lambda function code for extracting data from the Spotify API.
 - **`transform.py`**: Includes the transformation function to process the raw data.
 
+## Architecture
+![](https://github.com/PyBeginner1/Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project/blob/main/Architecture.jpg)
+
 ## Instructions
 
 ### 1. Extracting Data with AWS Lambda
