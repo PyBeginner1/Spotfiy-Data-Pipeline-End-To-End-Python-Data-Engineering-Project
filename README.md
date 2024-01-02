@@ -8,8 +8,6 @@ This project demonstrates a complete data pipeline for extracting, transforming,
 
 - **`lambda_function.py`**: Contains the AWS Lambda function code for extracting data from the Spotify API.
 - **`transform.py`**: Includes the transformation function to process the raw data.
-- **`glue_script.py`**: AWS Glue script for defining and running ETL jobs.
-- **`analytics_tables.sql`**: SQL script to create analytics tables in Athena.
 
 ## Instructions
 
