@@ -10,7 +10,7 @@ This project demonstrates a complete data pipeline for extracting, transforming,
 - **`transform.py`**: Includes the transformation function to process the raw data.
 
 ## Architecture
-![](https://github.com/PyBeginner1/Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project/blob/main/Architecture.jpg)
+![Architecture](https://github.com/PyBeginner1/Spotfiy-Data-Pipeline-End-To-End-Python-Data-Engineering-Project/blob/main/Architecture.jpg)
 
 ## Instructions
 
